@@ -83,7 +83,7 @@ The preprocessing steps include:
 
 - **Algorithm**: Multinomial Naive Bayes
 - **Vectorization**: TfidfVectorizer with a maximum of 3000 features
-- **Accuracy**: The model achieved an accuracy score of `X%` on the test set.
+- **Accuracy**: The model achieved an accuracy score of ` 97%` on the test set.
 
 ## Deployment
 
