@@ -18,7 +18,7 @@ The primary objective of this project is to build a machine learning model capab
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/KaranCS21e/spam-detection.git
+    git clone https://github.com/KaranCS21/spam-detection.git
     cd spam-detection
     ```
 
