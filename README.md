@@ -59,16 +59,16 @@ The primary objective of this project is to build a machine learning model capab
 3. Open your browser and navigate to `http://localhost:8501` to interact with the web application.
 
 ## Project Structure
-spam-detection/
-│
-├── app.py # Streamlit application code
-├── main.ipynb # Jupyter notebook with data processing and model building
-├── spam.csv # Dataset used for training
-├── requirements.txt # List of dependencies
-├── vectorizer.pkl # Saved TfidfVectorizer
-├── model.pkl # Saved Multinomial Naive Bayes model
-└── README.md # Project documentation
+The project directory contains the following files:
 
+Each file serves a specific purpose in the project:
+- `app.py`: Contains the Streamlit application code that provides a web interface for the spam classifier.
+- `main.ipynb`: Jupyter notebook for data processing, exploratory data analysis, and model building.
+- `spam.csv`: Dataset used for training the spam detection model.
+- `requirements.txt`: List of dependencies required to run the project.
+- `vectorizer.pkl`: Serialized TfidfVectorizer used for transforming text data.
+- `model.pkl`: Serialized Multinomial Naive Bayes model.
+- `README.md`: Project documentation (this file).
 
 ## Data Preprocessing
 
